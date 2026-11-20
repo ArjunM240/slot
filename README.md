@@ -40,9 +40,8 @@ Execute the program using runserver command.
         <table border="4"
         cellspacing="5"
         cellpadding="15"
-        align="center" width="800" height="400"
-            <thead bgcolor="white">
-                <tr>
+        align="center" >
+                <tr bgcolor="violet">
                     <td>Day&time</th>
                     <td>Monday</th>
                     <td>Tuesday</th>
@@ -51,9 +50,7 @@ Execute the program using runserver command.
                     <td>Friday</th>
                     <td>Saturday</th>
                 </tr>
-            </thead>
-            <tbody bgcolor="pink">
-                <tr>
+                <tr bgcolor="gray">
                     <td>08:00 - 09:30</th>
                     <td>Free</th>
                     <td>MAI</th>
@@ -62,7 +59,7 @@ Execute the program using runserver command.
                     <td>MAI</th>
                     <td>Free</th>
                 </tr>
-                <tr>
+                <tr bgcolor="gray">
                     <td>09:45 - 11:15</td>
                     <td>EDM</td>
                     <td>FWAD</td>
@@ -71,7 +68,7 @@ Execute the program using runserver command.
                     <td>FWAD</td>
                     <td>Free</td>
                 </tr>
-                <tr>
+                <tr bgcolor="gray">
                     <td>11:30 - 12:15</td>
                     <td>Free</td>
                     <td>MM</td>
@@ -80,7 +77,7 @@ Execute the program using runserver command.
                     <td>MM</td>
                     <td>MM</td>
                 </tr>
-                <tr>
+                <tr bgcolor="gray">
                     <td>01:15 - 02:45</td>
                     <td>FWAD</td>
                     <td>Free</td>
@@ -89,7 +86,7 @@ Execute the program using runserver command.
                     <td>Free</td>
                     <td>Free</td>
                 </tr>
-                <tr>
+                <tr bgcolor="gray">
                     <td>03:00 - 04:30</td>
                     <td>DE</td>
                     <td>CE</td>
@@ -98,57 +95,52 @@ Execute the program using runserver command.
                     <td>CA</td>
                     <td>Free</td>
                 </tr>                
-            </tbody>
         </table>
         <br>
         <table border="4"
         cellspacing="5"
         cellpadding="15"
-        align="center" width="700" height="300">
-            <thead bgcolor="sky blue">
-                <tr>
+        align="center">
+                <tr bgcolor="sky blue">
                     <th>S:NO</th>
                     <th>SUBJECT CODE</th>
                     <th>SUBJECT NAME</th>
                 </tr>
-            </thead>
-            <tbody bgcolor="white">
-                <tr>
+                <tr bgcolor="pink">
                     <td>1;</td>
                     <td>19AI220</td>
                     <td>MATHEMATICS FOR ARTIFICIAL INTELLIGENCE(MAI)</td>
                 </tr>
-                <tr>
+                <tr bgcolor="pink">
                     <td>2;</td>
                     <td>19AI302</td>
                     <td>ENGINEERING DESIGN AND MODELLING(EDM)</td>
                 </tr>
-                <tr>
+                <tr bgcolor="pink">
                     <td>3;</td>
                     <td>19CS305</td>
                     <td>COMPUTER ARCHITECTURE(CA)</td>
                 </tr>
-                <tr>
+                <tr bgcolor="pink">
                     <td>4;</td>
                     <td>19EE404</td>
                     <td>DIGITAL ELECTRONICS(DE)</td>
                 </tr>
-                <tr>
+                <tr bgcolor="pink">
                     <td>5;</td>
                     <td>19AI1414</td>
                     <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT(FWAD)</td>
                 </tr>
-                <tr>
+                <tr bgcolor="pink">
                     <td>6;</td>
                     <td>19EN101</td>
                     <td>COMMUNICATIVE ENGLISH(CE)</td>
                 </tr>
-                <tr>
+                <tr bgcolor="pink">
                     <td>7;</td>
                     <td>260D2M009</td>
                     <td>MENTOR MEET(MM)</td>
                 </tr>
-            </tbody>
         </table>
     </body>
 </html>
@@ -157,7 +149,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 webpage
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
